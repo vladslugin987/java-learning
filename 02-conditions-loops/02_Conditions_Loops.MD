@@ -237,8 +237,6 @@ public class ControlFlowDemo {
 
 ***
 
-This covers the essentials: how to use `if`, `switch`, all loop types, and loop control in Java. If you want practice tasks or step-by-step exercises, just tell me![1][3][4]
-
 [1](https://www.codingshuttle.com/blogs/java-flow-control/)
 [2](https://www.w3schools.com/java/java_conditions.asp)
 [3](https://dev.to/be11amer/control-flow-mastering-conditional-statements-and-loops-188d)
